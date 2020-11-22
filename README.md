@@ -58,8 +58,6 @@
 
 [Тест№4](https://skr.sh/s5DGmdjb4L0)
 
-Ссылка на коммит https://github.com/evgen-911/projekt-1/commit/295f7d141bd185a5ece4f9ca6a84ab4e0ba1300b
-
 - Тест №5 - Ввод одного значения "1"
 
 Ожидаемый результат - ""Result is FAIL""
@@ -69,8 +67,6 @@
 Скриншот
 
 [Тест№5](https://skr.sh/s5DIeCPiJkP)
-
-Ссылка на коммит https://github.com/evgen-911/projekt-1/commit/2a9ccf7e74ce22ffd4e16e08b92eba7c1180259b
 
 - Тест №6 - Ввод 19-значного валидного номера карты "4539222137126900518"
 
@@ -83,7 +79,6 @@
 [Тест№6](https://skr.sh/s5DW4wxqZFp)
 
 [Тест№6.1](https://skr.sh/s5DO2Hh930f)
-
 
 - Тест №7 - Оставляем поле пустым
 
