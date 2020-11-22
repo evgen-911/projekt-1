@@ -106,7 +106,8 @@ https://skr.sh/s5DxW2oDORr
 https://skr.sh/s5DZIyd647v
 
 
-В качестве тестовых данных использовались номера карт из веб-сайта https://www.freeformatter.com/credit-card-number-generator-validator.html:
+В качестве тестовых данных использовались номера карт 
+- из веб-сайта https://www.freeformatter.com/credit-card-number-generator-validator.html:
 
 Тестирование производилось в следующем окружении:
 
