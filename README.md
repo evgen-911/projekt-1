@@ -24,7 +24,7 @@
 
 Скриншот:
 
-https://skr.sh/s5DKHoICY7w
+[Тест№1](https://skr.sh/s5DKHoICY7w)
 
 - Тест №2 - Ввод 15-значного номера карты "491644320019496"
 
@@ -34,7 +34,7 @@ https://skr.sh/s5DKHoICY7w
 
 Скриншот:
 
-https://skr.sh/s5DTQAbAU0g
+[Тест№2](https://skr.sh/s5DTQAbAU0g)
 
 - Тест №3 - Ввод 16-значного валидного номера карты "4916443200194964"
 
@@ -44,9 +44,9 @@ https://skr.sh/s5DTQAbAU0g
 
 Скриншоты:
 
-https://skr.sh/s5Dn3ZN3FdL
+[Тест№3](https://skr.sh/s5Dn3ZN3FdL)
 
-https://skr.sh/s5D7sihwiws
+[Тест№3.1](https://skr.sh/s5D7sihwiws)
 
 - Тест №4 - Ввод 17-значного номера карты "49164432001949655"
 
@@ -56,7 +56,7 @@ https://skr.sh/s5D7sihwiws
 
 Скриншот
 
-https://skr.sh/s5DGmdjb4L0
+[Тест№4](https://skr.sh/s5DGmdjb4L0)
 
 Ссылка на коммит https://github.com/evgen-911/projekt-1/commit/295f7d141bd185a5ece4f9ca6a84ab4e0ba1300b
 
@@ -68,7 +68,7 @@ https://skr.sh/s5DGmdjb4L0
 
 Скриншот
 
-https://skr.sh/s5DIeCPiJkP
+[Тест№5](https://skr.sh/s5DIeCPiJkP)
 
 Ссылка на коммит https://github.com/evgen-911/projekt-1/commit/2a9ccf7e74ce22ffd4e16e08b92eba7c1180259b
 
@@ -80,9 +80,9 @@ https://skr.sh/s5DIeCPiJkP
 
 Скриншоты:
 
-https://skr.sh/s5DW4wxqZFp
+[Тест№6](https://skr.sh/s5DW4wxqZFp)
 
-https://skr.sh/s5DO2Hh930f
+[Тест№6.1](https://skr.sh/s5DO2Hh930f)
 
 
 - Тест №7 - Оставляем поле пустым
@@ -93,7 +93,7 @@ https://skr.sh/s5DO2Hh930f
 
 Скриншот
 
-https://skr.sh/s5DxW2oDORr
+[Тест№7](https://skr.sh/s5DxW2oDORr)
 
 - Тест №8 - Ввод 16 значений на латинице "QWERTYUIOPASDFGH"
 
@@ -103,7 +103,7 @@ https://skr.sh/s5DxW2oDORr
 
 Скриншот
 
-https://skr.sh/s5DZIyd647v
+[Тест№8](https://skr.sh/s5DZIyd647v)
 
 
 В качестве тестовых данных использовались номера карт 
